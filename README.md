@@ -13,7 +13,7 @@
 
 ## 🚀 Hakkımda
 
-Ben Özcan Yılmazçelebi.  
+Ben Özcan Yılmaz.  
 **Report Software & Report Dış Ticaret** bünyesinde yazılım çözümleri, CRM sistemleri, otomasyonlar ve backend mimarileri geliştiriyorum.
 
 Odaklandığım konular:
@@ -87,7 +87,7 @@ Bu profil ve projeler **MIT License** altında lisanslanmıştır.
 
 MIT License
 
-Copyright (c) 2025 Özcan Yılmazçelebi
+Copyright (c) 2025 Özcan Yılmaz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
