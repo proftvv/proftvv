@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:ozcan@reportdisticaret.com">📧 E-posta</a> •
-  <a href="https://github.com/profvv">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/ozcanyilmazcelebi">🔗 LinkedIn</a>
+  <a href="https://github.com/profvv">💻 GitHub</a> 
 </p>
 
 ---
