@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Özcan Yılmazçelebi</h1>
+<h1 align="center">👋 Merhaba, ben Özcan Yılmaz</h1>
 
 <p align="center">
   Full-Stack Developer • Automation Architect • Export & Trade Systems Developer  
