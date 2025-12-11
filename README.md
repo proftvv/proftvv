@@ -1,110 +1,110 @@
-<h1 align="center">👋 Merhaba, ben Özcan Yılmaz</h1>
-
+<!-- Banner -->
 <p align="center">
-  Full-Stack Developer • Automation Architect • Export & Trade Systems Developer  
-</p>
-
-<p align="center">
-  <a href="mailto:ozcan@reportdisticaret.com">📧 E-posta</a> •
-  <a href="https://github.com/profvv">💻 GitHub</a> 
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=800&lines=👋+Merhaba,+Ben+Özcan+Yılmaz;Full-Stack+Developer+%7C+Automation+Architect;Report+Software+%26+Trade+Systems+Developer" />
 </p>
 
 ---
 
-## 🚀 Hakkımda
+<h1 align="center">🚀 Full-Stack Developer & Automation Architect</h1>
 
-Ben Özcan Yılmaz.  
-**Report Software & Report Dış Ticaret** bünyesinde yazılım çözümleri, CRM sistemleri, otomasyonlar ve backend mimarileri geliştiriyorum.
-
-Odaklandığım konular:
-
-- Backend & API geliştiriciliği  
-- Dış ticaret süreçleri için otomasyon yazılımları  
-- Mail, CRM ve pipeline otomasyonları  
-- Dashboard, monitoring ve şirket içi araçlar  
-- Linux & Docker tabanlı altyapılar  
-
-Hedefim:  
-**Tüm şirket süreçlerini tek bir dijital altyapıya bağlayan güçlü bir otomasyon ekosistemi kurmak.**
+<p align="center">
+  Modern otomasyon, dış ticaret yazılımları, API mimarileri ve kurumsal altyapılar geliştiriyorum.  
+  Tüm şirket süreçlerini tek bir dijital ekosisteme bağlama hedefiyle çalışıyorum.
+</p>
 
 ---
 
-## 🛠 Kullandığım Teknolojiler
-
-### 🔹 Backend  
-- Python (FastAPI)  
-- Node.js (Express)  
-- C# (.NET Core)  
-- Go  
-
-### 🔹 Frontend  
-- React  
-- Next.js  
-- TailwindCSS  
-
-### 🔹 DevOps & Diğer  
-- Docker  
-- GitHub Actions  
-- Linux Ubuntu Server  
-- Nginx  
-- Bash scripting  
+## 🧩 Hızlı Kart — Developer Profile
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profvv&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=profvv&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=profvv&theme=github_dark&utcOffset=3" />
+</p>
 
 ---
 
-## 📂 Devam Eden Projelerim
+# 📊 İstatistikler — Turbo Mod
 
-### **Report Software Repository**  
-Şirket içi tüm yazılımların toplandığı ana repo.  
-API’ler, mikro servisler, otomasyon scriptleri ve dashboard projeleri burada.
-
-### **Automation & CRM Workflow**  
-İhracat süreçleri, müşteri takibi, mail otomasyonları ve AI destekli iş akışları.
-
-### **Internal Tools**  
-– Veri dönüştürme araçları  
-– Raporlama scriptleri  
-– Admin & monitoring panelleri  
-
----
-
-## 📊 GitHub İstatistikleri
-
+### 🔥 Aktivite Serisi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=profvv&theme=dark&hide_border=true" />
 </p>
 
+### 📈 Genel GitHub Aktivitesi
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profvv&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=profvv&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profvv&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🧾 Lisans
+# 🕒 Commit Aktivite Analizi
 
-Bu profil ve projeler **MIT License** altında lisanslanmıştır.
+### 🕐 Saatlik Commit Dağılımı
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=profvv&theme=github_dark&utcOffset=3" />
+</p>
 
-```
-
-MIT License
-
-Copyright (c) 2025 Özcan Yılmaz
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-
-```
+### 📅 Haftanın Günleri
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=profvv&theme=github_dark"/>
+</p>
 
 ---
 
-## 📬 Bana Ulaş
+# 📆 Aylık & Yıllık Aktivite Timeline
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=profvv&theme=react-dark&hide_border=true" />
+</p>
 
-- 📧 E-posta: **ozcan@reportdisticaret.com**  
-- 🔗 GitHub: **https://github.com/profvv**  
+---
+
+# ⏱ WakaTime — Kodlama Sürelerim
+> Kodlama aktivitelerin otomatik olarak güncellenir.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=profvv&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+# 💼 Şu Anda Üzerinde Çalıştıklarım
+### **Report Software Repository**
+- İç otomasyon sistemleri  
+- CRM & pipeline iş akışları  
+- Mikro servis API mimarileri  
+
+### **AI Destekli Workflow**
+- Otomatik mail işleme  
+- CRM analizi  
+- Pipeline tahmin modelleri  
+
+### **Internal Tools**
+- Data parsing araçları  
+- Dashboard & monitoring  
+- Raporlama scriptleri  
+
+---
+
+# 🛠 Kullandığım Teknolojiler
+
+### Backend
+`Python` • `FastAPI` • `Node.js` • `Express` • `C# (.NET)` • `Go`
+
+### Frontend
+`React` • `Next.js` • `TailwindCSS`
+
+### DevOps
+`Docker` • `GitHub Actions` • `Linux` • `Nginx` • `Bash`
+
+---
+
+# 📬 Bana Ulaş
+- 📧 **ozcan@reportdisticaret.com**  
+- 🌐 GitHub → **github.com/profvv**
 
 ---
 
 <p align="center"><b>🚀 Report Software — Modern & Otomasyon Odaklı Yazılım Ekosistemi</b></p>
-
----
+<p align="center">© 2025 MIT License</p>
 
