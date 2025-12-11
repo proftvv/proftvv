@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=800&lines=👋+Merhaba,+Ben+Özcan+Yılmaz;Full-Stack+Developer+%7C+Automation+Architect;Report+Software+%26+Trade+Systems+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=60&duration=3000&center=true&vCenter=true&width=800&lines=👋+Merhaba,+Ben+Özcan+Yılmaz;Full-Stack+Developer+%7C+Automation+Architect;Report+Software+%26+Trade+Systems+Developer" />
 </p>
 
 ---
