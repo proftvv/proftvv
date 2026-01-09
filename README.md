@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&duration=5000&pause=1000&center=true&vCenter=true&width=900&lines=👋+Merhaba%2C+ben+%C3%96zcan+Y%C4%B1lmaz+(proftvv);Full-Stack+Developer+%7C+Automation+Architect;Mobil+%2F+Data+%2F+Backend+%2F+Program+Geli%C5%9Ftirme" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=140&section=header&text=%C3%96zcan%20Y%C4%B1lmaz%20(proftvv)&fontSize=28&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h1 align="center">🚀 Full-Stack Developer & Automation Architect</h1>
@@ -34,25 +34,7 @@
 
 ---
 
-## 📊 İstatistikler — Turbo Mod
-
-### 🔥 Aktivite Serisi
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=proftvv&theme=dark&hide_border=true" />
-</p>
-
-### 📈 Genel GitHub Aktivitesi
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proftvv&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proftvv&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
-### 🗂️ Kupalar
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proftvv&theme=algolia&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
+ 
 
 ## 🕒 Commit Aktivite Analizi
 
@@ -128,20 +110,9 @@
 
 ---
 
-## ⚙️ Hızlı Rozetler
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+## 🧰 Kullandıklarım
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,typescript,react,nextjs,tailwind,go,dotnet,docker,nginx,linux,bash,git,githubactions,vercel,postgres,mysql,mongodb,redis,prisma,flutter,dart,expo,postman,powershell&perline=12" />
 </p>
 
 ---
@@ -153,23 +124,9 @@
 
 ---
 
-## ⏱ WakaTime — Kodlama Sürelerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=proftvv&theme=dark&hide_border=true"/>
-</p>
-<p align="center">
-  <sub>Not: WakaTime verilerinin görünmesi için WakaTime hesabınızı GitHub kullanıcı adınızla eşleştirmeniz gerekir.</sub>
-</p>
+ 
 
----
-
-## 🐍 Contribution Snake (Opsiyonel)
-<p>
-  <!-- Bu görseli göstermek için repo'nuzda bir GitHub Actions workflow'u ile snake.svg üretmeniz gerekir. İsterseniz bunu sizin için hazırlayayım. -->
-  <!-- <img src="https://raw.githubusercontent.com/proftvv/proftvv/output/github-contribution-grid-snake.svg" alt="snake" /> -->
-</p>
-
----
+ 
 
 ## 📬 Bana Ulaş
 - 📧 E-posta: ozcan@reportdisticaret.com
