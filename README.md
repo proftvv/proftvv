@@ -1,13 +1,11 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Merhaba%2C+ben+%C3%96zcan+Y%C4%B1lmaz;Full-Stack+Developer;Data+%E2%80%A2+Backend+%E2%80%A2+Otomasyon)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Merhaba%2C+ben+%C3%96zcan+Y%C4%B1lmaz;Full-Stack+Developer;Data+%E2%80%A2+Backend+%E2%80%A2+Otomasyon" alt="Typing SVG" /></a>
 </p>
 
-
-
-<h1 align="center">🎯 Full-Stack Developer & System Architect</h1>
+<h1 align="center">🚀 Full-Stack Developer & Automation Architect</h1>
 
 <p align="center">
-  Oyunlar, uygulamalar, siteler, API'lar, otomasyon — her türlü yazılım sistemini tasarımdan üretime kurarım. Karmaşık mimarileri ve ölçeklenebilir ekosistemler inşa etmeyi seviyorum.
+  Modern otomasyon, dış ticaret yazılımları, API mimarileri ve kurumsal altyapılar geliştiriyorum. Tüm şirket süreçlerini tek bir dijital ekosistemde birleştirme hedefiyle çalışıyorum.
 </p>
 
 <p align="center">
