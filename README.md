@@ -129,9 +129,9 @@
  
 
 ## 📬 Bana Ulaş
-- 📧 E-posta: ozcan@reportdisticaret.com
-- 🐦 X: https://twitter.com/proftvv
+- 📧 E-posta: yilmazcelebiozcan@gmail.com
+- 💬 Discord: proftvv
 - 🌐 GitHub: https://github.com/proftvv
 
-<p align="center"><b>🚀 Report Software — Modern & Otomasyon Odaklı Yazılım Ekosistemi</b></p>
+<p align="center"><b>🚀 Project Mark — Modern & Otomasyon Odaklı Yazılım Ekosistemi</b></p>
 <p align="center">© 2026</p>
