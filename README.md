@@ -62,7 +62,7 @@
 - ⚙️ Mark-IV: Modern web teknolojileri ile geliştirilmiş kurumsal uygulama altyapısı (TypeScript)
 - 🐍 Mark-V: Veri işleme ve otomasyon odaklı Python araçları (Python)
 - 🧭 Mark-III: Şirket verilerini toplayan ve Excel’e aktaran Flask tabanlı BI çözümü (Python/Flask)
-- 🚚 Mark-II: Report Dış Ticaret ve Lojistik ekosistemi (JavaScript)
+- 🚚 Mark-II: Dış Ticaret ve Lojistik ekosistemi (JavaScript)
 
 > Detaylar: Mark projeleri modern web teknolojileri, güvenlik katmanları ve otomasyon iş akışlarına odaklanır. (Vercel ve özel domain dağıtımları mevcut.)
 
