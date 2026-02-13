@@ -118,7 +118,7 @@
 ---
 
 ## 💼 Şu Anda Üzerinde Çalıştıklarım
-- Report Software: İç otomasyon sistemleri, CRM & pipeline iş akışları, mikro servis API mimarileri
+- SHIFT Un-MARKed: İç otomasyon sistemleri, CRM & pipeline iş akışları, mikro servis API mimarileri
 - AI Destekli Workflow: Otomatik mail işleme, CRM analizi, pipeline tahmin modelleri
 - Internal Tools: Data parsing araçları, dashboard & monitoring, raporlama scriptleri
 
